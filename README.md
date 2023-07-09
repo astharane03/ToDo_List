@@ -1,6 +1,25 @@
 # To Do List
-
 This project is made using **React** and **Material UI**. It allows users to make a list of works to be done,update and delete them, with list being stored in local storage.
+
+## Getting Started
+
+you can clone the repository by using the command below and run the "npm install" command to install the necessary tools
+
+### Setup
+
+```cmd
+git clone git@github.com:Bantealem/my-to-do-list.git
+npm install
+npm run build
+npm start
+```
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
 
 ## Table of Contents
 
