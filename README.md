@@ -5,13 +5,12 @@ This project is made using **React** and **Material UI**. It allows users to mak
 
 you can clone the repository by using the command below and run the "npm install" command to install the necessary tools
 
-### Setup
+## Installation
+To run the project locally, follow these steps:
 
-```cmd
-git clone https://github.com/astharane03/ToDo_List.git
-npm install
-npm run build
-npm start
+1. Clone the repository: `git clone https://github.com/astharane03/ToDo_List.git`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
 ```
 
 
