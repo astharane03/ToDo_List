@@ -47,4 +47,4 @@ npm i react-router-dom
 
 ## Contributing
 
-Contributions are welcome!
+Contributions, issues, and feature requests are welcome!
