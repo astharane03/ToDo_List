@@ -6,6 +6,7 @@ This project is made using **React** and **Material UI**. It allows users to mak
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [Dependencies](#dependencies)
 - [Preview](#preview)
 - [Contributing](#contributing)
@@ -20,6 +21,12 @@ To run the project locally, follow these steps:
 ## Usage
 
 To start the app, run `npm start`. This will start the app on [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Features
+
+- Create : Make a list.
+- Edit : Can edit the work written in the list.
+- Delete : Users can delete the work from the list if it is done.
 
 ## Dependencies
 ```
