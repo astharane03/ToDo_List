@@ -11,7 +11,7 @@ To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/astharane03/ToDo_List.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
-```
+
 
 
 ## 🤝 Contributing
