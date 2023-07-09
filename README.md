@@ -25,7 +25,7 @@ To start the app, run `npm start`. This will start the app on [http://localhost:
 ## Features
 
 - Create : Make a list.
-- Edit : Can edit the work written in the list.
+- Edit : Users can edit the work written in the list.
 - Delete : Users can delete the work from the list if it is done.
 
 ## Dependencies
