@@ -1,5 +1,5 @@
 # To Do List
-This project is made using **React** and **Material UI**. It allows users to make a list of works to be done,update and delete them, with list being stored in local storage.
+This project is made using **React** . It allows users to make a list of works to be done,update and delete them, with list being stored in local storage.
 
 
 ## Table of Contents
